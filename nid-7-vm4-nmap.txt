@@ -1,0 +1,8 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2020-10-24 22:01 EDT
+Nmap scan report for 192.168.7.4
+Host is up (0.78s latency).
+Not shown: 999 filtered ports
+PORT     STATE  SERVICE
+9090/tcp closed zeus-admin
+
+Nmap done: 1 IP address (1 host up) scanned in 68.13 seconds
